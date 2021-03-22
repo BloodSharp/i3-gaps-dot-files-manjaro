@@ -1,4 +1,5 @@
 *
 !.gitignore
-!.git/
+
+!.i3/
 !.i3/*
