@@ -7,3 +7,8 @@
 !.config/
 !.config/cava/
 !.config/cava/config
+!.config/nitrogen/
+!.config/nitrogen/bg-saved.cfg
+
+!Wallpapers/
+!Wallpapers/*
