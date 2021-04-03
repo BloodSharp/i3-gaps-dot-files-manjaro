@@ -3,3 +3,7 @@
 
 !.i3/
 !.i3/*
+
+!.config/
+!.config/cava/
+!.config/cava/config
